@@ -13,7 +13,7 @@
 
 
 1. [安装包与安装部署说明](安装包与安装部署说明.md)
-2. [用户手册(视频演示)](演示视频.mp4)
+2. [用户手册(视频演示)](https://www.bilibili.com/video/av57048751/)
 3. 所有源代码
    1. [微信小程序点餐系统前端](https://github.com/fitnote/FitNote)
    2. [服务端+后台](https://github.com/fitnote/FitRear)
