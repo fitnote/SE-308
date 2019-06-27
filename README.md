@@ -17,8 +17,8 @@
 3. 所有源代码
    1. [微信小程序点餐系统前端](https://github.com/fitnote/FitNote)
    2. [服务端+后台](https://github.com/fitnote/FitRear)
-4. [软件需求规格说明书(SRS) not yet](软件需求规格说明书.md)
-5. [软件设计文档(SDS) not yet](软件设计文档)
+4. [软件需求规格说明书(SRS)](软件需求规格说明书.md)
+5. [软件设计文档(SDS)](软件设计文档)
 6. [小组分工与贡献率说明](小组分工及贡献率说明.md)
 
 
